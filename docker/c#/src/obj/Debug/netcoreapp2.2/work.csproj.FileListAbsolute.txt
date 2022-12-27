@@ -1,0 +1,6 @@
+/work/obj/Debug/netcoreapp2.2/work.csprojAssemblyReference.cache
+/work/obj/Debug/netcoreapp2.2/work.csproj.CoreCompileInputs.cache
+/work/obj/Debug/netcoreapp2.2/work.RazorAssemblyInfo.cache
+/work/obj/Debug/netcoreapp2.2/work.RazorAssemblyInfo.cs
+/work/obj/Debug/netcoreapp2.2/work.AssemblyInfoInputs.cache
+/work/obj/Debug/netcoreapp2.2/work.AssemblyInfo.cs
